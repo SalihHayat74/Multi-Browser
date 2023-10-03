@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60902804466",
+    "project_id": "multitabber2023",
+    "storage_bucket": "multitabber2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60902804466:android:44f0972a063f2499d4796b",
+        "android_client_info": {
+          "package_name": "com.troikasoft.multitabber2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60902804466-ad0f0vn03f7ql4fdd7p7cl2fp9umj2rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_GDsx4R-LQFu5epF4Hy6rZjdZwBebUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60902804466-ad0f0vn03f7ql4fdd7p7cl2fp9umj2rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
